@@ -21,3 +21,4 @@ npm run preview
 ## Notes
 
 This is a front-end prototype. For official deployment, connect announcements, resources, locker records, and student concerns to Firebase, Supabase, Laravel/PHP + MySQL, or a PLM-managed server.
+ 
